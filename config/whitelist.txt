@@ -92,6 +92,34 @@ CGTN,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226666/1.m3u8
 金鹰纪实,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 金鹰卡通,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
 
+广州综合,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3000
+广州新闻,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3002
+广州法治,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3004
+南国都市,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3003
+深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?liveId=AxeFRth
+深圳卫视(4K),webview://https://www.sztv.com.cn/pindao/index.html?liveId=R77mK1v
+深圳财经生活,webview://https://www.sztv.com.cn/pindao/index.html?liveId=3vIcoXP
+深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?liveId=4azbkoYf
+深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?liveId=1SlQj6s
+深圳国际,webview://https://www.sztv.com.cn/pindao/index.html?liveId=szTvgjpd
+深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?liveId=ZwczJUXf
+4K超高清,webview://https://m.gdtv.cn/tvChannelDetail/16
+
+
+浙江民生休闲,webview://https://www.cztv.com/liveTV/106
+之江纪录,webview://https://www.cztv.com/liveTV/112
+浙江钱江,webview://https://www.cztv.com/liveTV/102
+
+
+
+
+
+
+
+
+江苏综艺,webview://https://live.jstv.com/
+苏州文化生活,webview://http://www.csztv.com/zhibo3.shtml
+
 [KEYWORDS]
 # 以下区域是关键字白名单，某频道获取到的接口地址中含有指定关键字，则该接口会被加入该频道的白名单，多条记录换行输入。
 # This area is the keyword whitelist. If the interface address obtained by a certain channel contains the specified keyword, the interface will be added to the whitelist of the channel, with multiple records entered on new lines.
